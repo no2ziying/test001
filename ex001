@@ -1,0 +1,3 @@
+# -- coding: utf-8 --
+# for python in windows
+print "this is a test"
